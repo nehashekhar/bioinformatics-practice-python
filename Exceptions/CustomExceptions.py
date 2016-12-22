@@ -1,0 +1,2 @@
+class BoundaryException(Exception):
+    pass
